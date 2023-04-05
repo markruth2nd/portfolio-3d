@@ -6,13 +6,16 @@ The purpose of this project is to create my portfolio which I am looking to shar
 
 Vite 
 React including:
- - React Router dom
- - react-three/drei
- - react-three/fiber
+ - React Router dom: To route links, componenets and pages throughout the single page website
+ - react-three/drei: This is a react based Three.js library
+ - react-three/fiber: This is a react based Three.js library allowing me to create Three.js code within this react environment
  - react-dom
- - react-tilt
- - react-vertical-timeline-component
+ - react-tilt: This will provide animations when hovering over cards. I will also need to ensure I use legacy peer deps as react tilt uses older versions of react
+ - react-vertical-timeline-component: To help with the user experience
 email.js
 framer-motion
-maath
+maath: This allows me to use maath utility functions to help with the geometry while using Three.js
 Tailwind CSS
+
+
+After some extensive research for I have found some basic starter code in Github which I will add into my project by replacing the public and assets folders so that I have basic logo's and images as well as some 3D models to get my project started which I will replace as I code through the project.
