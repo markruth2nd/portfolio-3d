@@ -24,4 +24,4 @@ I have also found some starter css code for box shadowing, gradeints and googlea
 Once I added the index CSS code I will ensure that I import the tailwind CSS base, components & utilities.
 
 ## Tailwind
-Within the src folder I will create the styles.js file where I add soe usefull Tailwind utility styles for the Hero & section texts within my project. This after going through the Tailwind documentaton
+Within the src folder I will create the styles.js file where I add some usefull Tailwind utility styles for the Hero & section texts within my project. This after going through the Tailwind documentaton
