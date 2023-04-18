@@ -1,5 +1,3 @@
-//In this file I will start with some provided starter code for some information that will be layed out throughout my portfolio page ready to be amended with the information I am looking to display on my portfolio.
-
 import {
     mobile,
     backend,

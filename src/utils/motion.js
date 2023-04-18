@@ -1,5 +1,3 @@
-//This file provides some frameware motion animations which I will use throughout my project as well as add more motions as I progress in the future. This current code is starter code which I have taken from another github repositiory
-
 export const textVariant = (delay) => {
     return {
         hidden: {
