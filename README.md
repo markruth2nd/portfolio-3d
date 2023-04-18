@@ -17,7 +17,11 @@ framer-motion
 maath: This allows me to use maath utility functions to help with the geometry while using Three.js
 Tailwind CSS
 
+## Imports & started codes used
 
 After some extensive research for I have found some basic starter code in Github which I will add into my project by replacing the public and assets folders so that I have basic logo's and images as well as some 3D models to get my project started which I will replace as I code through the project.
 I have also found some starter css code for box shadowing, gradeints and googleapi font imports for my project which I will just import from github so I can again, concentrate on the contents and layout of my project while I am not working in a team. This CSS will be added to the index CSS.
 Once I added the index CSS code I will ensure that I import the tailwind CSS base, components & utilities.
+
+## Tailwind
+Within the src folder I will create the styles.js file where I add soe usefull Tailwind utility styles for the Hero & section texts within my project. This after going through the Tailwind documentaton
